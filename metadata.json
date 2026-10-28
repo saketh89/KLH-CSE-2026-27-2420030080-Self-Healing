@@ -1,0 +1,6 @@
+{
+  "name": "Self-Healing Multi-Model AI Routing Engine",
+  "description": "Adaptive AI routing engine with heuristic dispatch, Resilience4j-style circuit breaker fallback, model health registry, and full Java 21 Spring Boot codebase generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
